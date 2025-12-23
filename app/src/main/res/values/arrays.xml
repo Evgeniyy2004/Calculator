@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operation_types">
+        <item>Арифметика</item>
+        <item>Побитовые операции</item>
+    </string-array>
+
+    <string-array name="number_systems">
+        <item>Десятичная</item>
+        <item>Двоичная</item>
+        <item>Восьмеричная</item>
+        <item>Шестнадцатеричная</item>
+    </string-array>
+
+    <string-array name="integration_methods">
+        <item>Метод Симпсона</item>
+        <item>Метод трапеций</item>
+        <item>Адаптивный метод</item>
+    </string-array>
+
+    <string-array name="infinity_types">
+        <item>до +∞</item>
+        <item>от -∞</item>
+    </string-array>
+</resources>
